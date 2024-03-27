@@ -2,7 +2,7 @@
 
 ### Análise de tempo de execução e speedup
 
-###### Tabela do tempo de execução
+##### Tabela do tempo de execução
 
 | Num Threads | Tempo (s) |
 | ----------- | --------- |
@@ -17,4 +17,4 @@
 | 10          | 1,740   |
 ##### Gráfico do tempo de execução e do speedup para os testes realizados
 
-![[tempo_e_speedup.png]]
+![tempo_e_speedup.png](tempo_e_speedup.png)
