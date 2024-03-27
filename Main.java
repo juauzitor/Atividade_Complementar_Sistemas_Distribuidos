@@ -29,7 +29,7 @@ public class Main{
 
     public static void main(String args[]){
         try {
-            List<String> lines = Files.readAllLines(Paths.get("lista.txt"));
+            List<String> lines = Files.readAllLines(Paths.get("entrada.txt"));
             List<Long> numbers = new ArrayList<>();
             for (String line : lines) {
                 numbers.add(Long.parseLong(line.trim()));
